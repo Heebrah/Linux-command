@@ -1,7 +1,7 @@
 # Linux-command
 Linux commands are text-based instructions used in a Linux terminal (or shell) to interact with the operating system. These commands allow users to manage files, run programs, configure system settings, and perform a wide range of administrative tasks.
 
-Here are some common Linux commands and what they do:
+Here are some common Linux commands and what they do: 
 
 ## 📁 File & Directory Management
 
