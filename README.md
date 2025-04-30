@@ -52,7 +52,7 @@ ifconfig or ip	Show network interfaces
 netstat	Show network connections
 curl	Fetch data from a URL
 
-<!-- ## 🔒 Permissions & Ownership
+## 🔒 Permissions & Ownership
 
 ### Command	Description
 - chmod:	Change file permissions
@@ -127,7 +127,7 @@ https://imgur.com/uRSBRJn
 
 
 - finding a file in a directory: find /home -name notes.txt
-https://imgur.com/RbUxOvO -->
+https://imgur.com/RbUxOvO
 
 
 
